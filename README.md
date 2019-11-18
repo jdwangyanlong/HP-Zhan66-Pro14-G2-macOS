@@ -44,7 +44,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 - 指纹传感器
 - Intel 无线网卡&蓝牙
 - SystemSerialNumber & MLB 请在config.plst相关条目下自行添加，以正常使用 App Store & iMessage
-  - 参阅：[精解OpenCore(2019.10.5).pdf](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/Docs/oc%E9%85%8D%E7%BD%AE%E5%B8%AE%E5%8A%A9%E8%AF%B4%E6%98%8E)
+  - 参阅：[精解OpenCore(2019.11.15).pdf](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/blob/master/Docs/oc%E9%85%8D%E7%BD%AE%E5%B8%AE%E5%8A%A9%E8%AF%B4%E6%98%8E/%E7%B2%BE%E8%A7%A3OpenCore(2019.11.15).pdf)
   - 工具：[macinfo](https://github.com/acidanthera/MacInfoPkg/releases)
   - 命令：`./macserial -m MacBookPro15,2`
 - <b>首次开机触摸板不可用，清除缓存后重启</b>
@@ -59,7 +59,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
    - 参阅：[OpenCorePkg 中文资料](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/Docs)
 
 -  ACIP hotpatch 修补
-   - 参阅：[OC-little By 宪武](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/Docs/OC-%E9%83%A8%E4%BB%B6%E8%A1%A5%E4%B8%81)
+   - 参阅：[OC-little By 宪武](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/Docs/OC-%E9%83%A8%E4%BB%B6%E8%A1%A5%E4%B8%81/OC-little)
    - 感谢 <b>@宪武</b> 重写电池部分hotpatch，并对各项配置进行排错
 
 ## 许可证声明
