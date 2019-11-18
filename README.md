@@ -28,6 +28,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 - boot-args: `-v` 请按需选择是否保留
 - <b>亮度调节按键 Shift+F2 | Shift+F3</b>
 - 可使用[HIDPI](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/HIDPI)开启高清分辨率支持
+- 可使用[ALCPlugFix](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/ALCPlugFix)修复3.5mm耳机爆音问题
 - 网卡更换为DW1830，理论上支持DW1560, DW1820A，但并未进行测试.
   - DW1820A 参阅：[Lenovo 小新 Air13IWL 进阶配置说明](https://github.com/daliansky/Lenovo-Air13-IWL-Hackintosh/blob/master/Advanced/ReadMe.md)
 -  USB无线网卡驱动
