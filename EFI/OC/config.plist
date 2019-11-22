@@ -28,7 +28,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-XOSI.aml</string>
+				<string>SSDT-TPXX.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -146,13 +146,13 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>_OSI to XOSI</string>
+				<string>Return Zero in _STA of TPD0</string>
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X09TSQ==</data>
+				<data>X1NUQQCkCg8UMw==</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
@@ -160,7 +160,7 @@
 				<key>OemTableId</key>
 				<data></data>
 				<key>Replace</key>
-				<data>WE9TSQ==</data>
+				<data>X1NUQQCkCgAUMw==</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -937,32 +937,7 @@
 			<data></data>
 		</dict>
 		<key>Block</key>
-		<array>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Identifier</key>
-				<string>com.apple.driver.AppleIntelLpssI2C</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Identifier</key>
-				<string>com.apple.driver.AppleIntelLpssI2CController</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-			</dict>
-		</array>
+		<array/>
 		<key>Patch</key>
 		<array>
 			<dict>
@@ -1023,8 +998,7 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array>
-		</array>
+		<array/>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleBehaviourOs</key>
