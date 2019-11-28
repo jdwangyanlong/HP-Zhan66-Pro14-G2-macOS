@@ -3,6 +3,7 @@
 This repository provides Open Core configuration files for HP Zhan66 Pro14 G2. 
 
 [![release](https://img.shields.io/badge/下载-release-blue.svg)](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/releases) 
+[![Gitee](https://img.shields.io/badge/下载-release-blue.svg)](https://gitee.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/releases) 
 
 ## 电脑配置
 
